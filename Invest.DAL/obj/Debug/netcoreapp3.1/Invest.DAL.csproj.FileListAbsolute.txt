@@ -1,0 +1,15 @@
+D:\Documentos\INVEST\Invest.DAL\bin\Debug\netcoreapp3.1\Invest.DAL.deps.json
+D:\Documentos\INVEST\Invest.DAL\bin\Debug\netcoreapp3.1\Invest.DAL.runtimeconfig.json
+D:\Documentos\INVEST\Invest.DAL\bin\Debug\netcoreapp3.1\Invest.DAL.runtimeconfig.dev.json
+D:\Documentos\INVEST\Invest.DAL\bin\Debug\netcoreapp3.1\Invest.DAL.dll
+D:\Documentos\INVEST\Invest.DAL\bin\Debug\netcoreapp3.1\Invest.DAL.pdb
+D:\Documentos\INVEST\Invest.DAL\bin\Debug\netcoreapp3.1\Invest.BLL.dll
+D:\Documentos\INVEST\Invest.DAL\bin\Debug\netcoreapp3.1\Invest.BLL.pdb
+D:\Documentos\INVEST\Invest.DAL\obj\Debug\netcoreapp3.1\Invest.DAL.csproj.AssemblyReference.cache
+D:\Documentos\INVEST\Invest.DAL\obj\Debug\netcoreapp3.1\Invest.DAL.AssemblyInfoInputs.cache
+D:\Documentos\INVEST\Invest.DAL\obj\Debug\netcoreapp3.1\Invest.DAL.AssemblyInfo.cs
+D:\Documentos\INVEST\Invest.DAL\obj\Debug\netcoreapp3.1\Invest.DAL.csproj.CoreCompileInputs.cache
+D:\Documentos\INVEST\Invest.DAL\obj\Debug\netcoreapp3.1\Invest.DAL.csproj.CopyComplete
+D:\Documentos\INVEST\Invest.DAL\obj\Debug\netcoreapp3.1\Invest.DAL.dll
+D:\Documentos\INVEST\Invest.DAL\obj\Debug\netcoreapp3.1\Invest.DAL.pdb
+D:\Documentos\INVEST\Invest.DAL\obj\Debug\netcoreapp3.1\Invest.DAL.genruntimeconfig.cache

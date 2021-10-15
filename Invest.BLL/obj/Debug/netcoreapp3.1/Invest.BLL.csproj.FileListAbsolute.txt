@@ -1,0 +1,9 @@
+D:\Documentos\INVEST\Invest.BLL\bin\Debug\netcoreapp3.1\Invest.BLL.deps.json
+D:\Documentos\INVEST\Invest.BLL\bin\Debug\netcoreapp3.1\Invest.BLL.dll
+D:\Documentos\INVEST\Invest.BLL\bin\Debug\netcoreapp3.1\Invest.BLL.pdb
+D:\Documentos\INVEST\Invest.BLL\obj\Debug\netcoreapp3.1\Invest.BLL.csproj.AssemblyReference.cache
+D:\Documentos\INVEST\Invest.BLL\obj\Debug\netcoreapp3.1\Invest.BLL.AssemblyInfoInputs.cache
+D:\Documentos\INVEST\Invest.BLL\obj\Debug\netcoreapp3.1\Invest.BLL.AssemblyInfo.cs
+D:\Documentos\INVEST\Invest.BLL\obj\Debug\netcoreapp3.1\Invest.BLL.csproj.CoreCompileInputs.cache
+D:\Documentos\INVEST\Invest.BLL\obj\Debug\netcoreapp3.1\Invest.BLL.dll
+D:\Documentos\INVEST\Invest.BLL\obj\Debug\netcoreapp3.1\Invest.BLL.pdb
